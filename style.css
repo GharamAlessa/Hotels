@@ -1,0 +1,47 @@
+header{
+   /* height:  118px; */
+   margin: 015;
+   text-align: center;
+   padding-top: 30px
+  
+}
+a{
+float: right;
+} 
+
+h1{
+  background-image: url("https://pbs.twimg.com/profile_images/1006350002891808768/ffNXUzV4_400x400.jpg");
+  margin-top: 0;
+
+}
+   body{
+   background-color: rgba(235, 230, 219, 0.846);
+   margin: 0;
+ }
+ section{
+
+  height: 500px ;
+  width: 80%;
+}
+
+img {
+height: 298px;
+  width: 80%;
+}
+ main{
+   height: 150px;
+   width: 90%;
+ }
+
+p {
+  height: 45px;
+  width: 135%;
+  margin-left: 20px
+}
+div {
+  display: flex;
+  margin-left: 20PX
+}
+a{
+  text-decoration: none;
+}
