@@ -1,5 +1,4 @@
 header{
-   /* height:  118px; */
    margin: 015;
    text-align: center;
    padding-top: 30px
@@ -15,7 +14,7 @@ h1{
 
 }
    body{
-   background-color: rgba(235, 230, 219, 0.846);
+   background-color: rgba(242, 240, 237, 0.846);
    margin: 0;
  }
  section{
@@ -36,7 +35,8 @@ height: 298px;
 p {
   height: 45px;
   width: 135%;
-  margin-left: 20px
+  margin-left: 40px
+
 }
 div {
   display: flex;
@@ -44,4 +44,11 @@ div {
 }
 a{
   text-decoration: none;
+  padding-top: 10px
+}
+p {
+font-family: serif;
+font-size: x-large;
+color: darkslategrey
+
 }
