@@ -1,4 +1,4 @@
-galert("welcom to VOCO HOTEL")
+alert("welcom to VOCO HOTEL")
 
 var answer = prompt("are you on vacation?.......please answer with yes or no")
 
