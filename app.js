@@ -1,4 +1,4 @@
-alert("welcom to VOCO HOTEL")
+galert("welcom to VOCO HOTEL")
 
 var answer = prompt("are you on vacation?.......please answer with yes or no")
 
@@ -25,5 +25,5 @@ if (rate == "1" || "2" || "3" || "4" || "5") {
   for (var y = 1; y <= rate; y++)
     document.write("<img src = https://www.pngitem.com/pimgs/m/106-1061926_transparent-stars-png-images-things-in-star-shape.png>")
 }
-alert("thanks for rating")
+alert("thanks for rating us")
 
